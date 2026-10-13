@@ -1,0 +1,682 @@
+[
+  {
+    "path": "assets/affiliate-brother-proposal.png",
+    "sha256": "6c307a923e15cfc7f0bb336a5ce6bfa9c8ec45f6fd77ea717d63d3c97acf1c91"
+  },
+  {
+    "path": "assets/affiliate-onboarding.png",
+    "sha256": "e3248ba0bc1089c20263b36d09337f5a7e7939922610f851a8e5158481819bf1"
+  },
+  {
+    "path": "assets/affiliate-overall-plan.png",
+    "sha256": "c7ff210392c4e5337e7cae42cbfc79cd88a14f90b5cd2f4f6ef89bccc86371cc"
+  },
+  {
+    "path": "assets/bakes-christmas-kv.png",
+    "sha256": "858492ed94cab11f53c76d2adb5330762e1728137a9cbe7385d9cf78af96519c"
+  },
+  {
+    "path": "assets/bakes-christmas-product.jpeg",
+    "sha256": "aaa2e3d4ef3f443a7898b60503fb5c50c1baa66f4e863c631ad544878b10b1f2"
+  },
+  {
+    "path": "assets/bakes-christmas-store.png",
+    "sha256": "2be7f7aa82859b0aaf33e4aadc69705bf036c5c802221fdeb17f0de8cceec9d6"
+  },
+  {
+    "path": "assets/bakes-field-motion.mp4",
+    "sha256": "d2d7534f61f5f0c8d00668037d009a0da4ace83991ea1494cf3bae598a1abaa4"
+  },
+  {
+    "path": "assets/bakes-field-poster.png",
+    "sha256": "195b7dd24a641e3010a6b202d865023f3f938d2973e64d68c9893472ff074457"
+  },
+  {
+    "path": "assets/bakes-packaging-motion.mp4",
+    "sha256": "5bb9a3dc1eb80e6ec0b94f8cb7c1d4d36195b34ff05a6029b7bbc6a35a8aba5d"
+  },
+  {
+    "path": "assets/bakes-packaging-poster.png",
+    "sha256": "5d891f0f60ee7368740a498ba2dbfab16ba778889ccc16c4e9be5139ecbcd2ca"
+  },
+  {
+    "path": "assets/bakes-paper-packaging.png",
+    "sha256": "9670ff009d58d0d16e7a98b5d90c19b7e357818bf10f69c4a1bdea13639f6235"
+  },
+  {
+    "path": "assets/bakes-product-context.png",
+    "sha256": "6a6f2d4a166836d735d024d8a581b42beb29ebf448e75116f9dea85502800e73"
+  },
+  {
+    "path": "assets/bakes-store-motion.mp4",
+    "sha256": "8ed2dd0dd4e6ce88f6fe24edfb2dd68db90e44fe2463851b9716aea97798eb57"
+  },
+  {
+    "path": "assets/bakes-store-poster.png",
+    "sha256": "fc2c5a6c66db85864737fdd8f3d25faf20905c1980f4b2787cd11cdd59a2ec16"
+  },
+  {
+    "path": "assets/bakes-store.jpg",
+    "sha256": "ebc8b129227aa59174c64de3daa775853beb5169df787463e5f99b1ca92d0163"
+  },
+  {
+    "path": "assets/bakes-tet-packaging.jpeg",
+    "sha256": "e1aceeaa24910fb641eea82a993e62b4a21fb7c11f53bf34c4fecac2a08e87a7"
+  },
+  {
+    "path": "assets/bakes-tet-product.jpeg",
+    "sha256": "409dec676e636cbe4c1e8bb597780aa378ead4fa81c4f4debec01971e29d8653"
+  },
+  {
+    "path": "assets/bakes-tet-store.png",
+    "sha256": "394b1245986bc57638d967d1951bbf430207ff590fa35fb7f864de8aa18b9c24"
+  },
+  {
+    "path": "assets/bakes-valentine-kv.jpeg",
+    "sha256": "cc051801db0c7bfeb9d990e13f0b009c2b221ecc6bb402f967fdc40a788344ee"
+  },
+  {
+    "path": "assets/bakes-valentine-product.jpeg",
+    "sha256": "2580196e3a628c346101735373cc265e5250bbc4a5417f4a301a94d80e000a7e"
+  },
+  {
+    "path": "assets/bakes.jpg",
+    "sha256": "2fbc90cfb78c4429189188c4721e9fa9e8ad298ab46db288527b5f01f5fc7b71"
+  },
+  {
+    "path": "assets/brand-alba.webp",
+    "sha256": "3ab53132e4bdd6807c56c0f51e735467d00424f943daa486847068fea44dcd58"
+  },
+  {
+    "path": "assets/brand-bach-suites.webp",
+    "sha256": "f06d309fd9a2e144304cc911051b02b58897b3b9f1ec6f81c23e11cf69255847"
+  },
+  {
+    "path": "assets/brand-bakes.webp",
+    "sha256": "31a18efc5aa29cbb7a2ba05c2d5070a7dc7b9fd6468c3c9c177fe85fad66df4f"
+  },
+  {
+    "path": "assets/brand-brother.webp",
+    "sha256": "ca341374b53c75058c3c3dd9ef2f605458e68f3f798e600810f1f60122249460"
+  },
+  {
+    "path": "assets/brand-cake.webp",
+    "sha256": "dca744cc7263e3ca0402cd66bee54111e02cf4a7781fcf4528f9712fefa961e7"
+  },
+  {
+    "path": "assets/brand-cancer-council.webp",
+    "sha256": "4a7f938bf7cb127c80563d29069b4205c280f9ec5dbde47caa8fbcc15538f1c9"
+  },
+  {
+    "path": "assets/brand-fonterra.webp",
+    "sha256": "d2a0c2dac87be0658105903df1d1e85102c80941434952282a3a730320fa2882"
+  },
+  {
+    "path": "assets/brand-genviet-jeans.webp",
+    "sha256": "8cf1bd11107456f18a6ba690d0c9883237106653f4a5bb0a4dc33aec0f72a116"
+  },
+  {
+    "path": "assets/brand-honor.webp",
+    "sha256": "68d0cda09e23250d8a6dee2107c70064f16e6250f7307ec904177bb25f94abe4"
+  },
+  {
+    "path": "assets/brand-japanshop.webp",
+    "sha256": "494d78011be7db7fd983bc2a89840b282056fe091b18d5c9ef15cc5b6a3e7687"
+  },
+  {
+    "path": "assets/brand-lesac.webp",
+    "sha256": "d206d0dd573ccaee4da49854573a4635322b1fb6b3790d01c54de60d5b6f2177"
+  },
+  {
+    "path": "assets/brand-mami-cocktails.webp",
+    "sha256": "36aa9da1ff8f3984b231873ef476398c5944927bc96f26f1153a0e26c944a244"
+  },
+  {
+    "path": "assets/brand-ncb.webp",
+    "sha256": "9af9fe5c6bf7278340a215cd6f02816b41021322524e3d05a643282c65d8242e"
+  },
+  {
+    "path": "assets/brand-panasonic.webp",
+    "sha256": "97be0e9c9105f91e56b92ce3fd99d8168c23f9b9d5346bba5889a4d1566d9a3a"
+  },
+  {
+    "path": "assets/brand-s-kin-heritage.webp",
+    "sha256": "237d32de057dfbadccbf94de01897f2810506cf14c658e681cdbfc947609b01d"
+  },
+  {
+    "path": "assets/brand-sapmok.webp",
+    "sha256": "efee7532c8e83264021072a0c9a5ab4fcd8300fe0ada426f4e05bd556d5af14f"
+  },
+  {
+    "path": "assets/brand-senka.webp",
+    "sha256": "15093e44045f810251b93ff8305f98507bb2c690480eb41fc4da014abc3a6ea0"
+  },
+  {
+    "path": "assets/brand-tiktok-shop.webp",
+    "sha256": "270b58a6e0f3a529dd3075a597e5fa105e2f5eacca090b523e357df232a043bb"
+  },
+  {
+    "path": "assets/brand-tsubaki.webp",
+    "sha256": "3d5e6a1a8823706846b683d3d1f294f3dd196c57bd5f7fd86eec0aaad5fed99b"
+  },
+  {
+    "path": "assets/brand-uob.webp",
+    "sha256": "7958c8af5b29ff2e6f95c5203fbd8ff7742ba64783a04089a18902070014497e"
+  },
+  {
+    "path": "assets/display/affiliate-brother-proposal.webp",
+    "sha256": "914eda0e8eacee7962d32ff8ac88a1c4d9fe0dcb4a33679a4823d5e5e8c1cfcd"
+  },
+  {
+    "path": "assets/display/affiliate-onboarding.webp",
+    "sha256": "8b2cd0cc32e748b1fb9beedaced6a95441b8fff1ad3bffea82bb5dab4472a297"
+  },
+  {
+    "path": "assets/display/bakes-christmas-kv.webp",
+    "sha256": "0a56a388a5d085a4445b528817467c48f8565aaff50b6e97b853d87416f91443"
+  },
+  {
+    "path": "assets/display/bakes-christmas-store.webp",
+    "sha256": "cd127974416b70b250ce56416cf2088c976715c40a9d7a17410519f5b3150e65"
+  },
+  {
+    "path": "assets/display/bakes-field-poster.webp",
+    "sha256": "fbea151c31d5a003c82d1fcb3ff804373efc4b0050a314808d572d1c119cb4b1"
+  },
+  {
+    "path": "assets/display/bakes-paper-packaging.webp",
+    "sha256": "5f930cd53079e92861804bad96090d004e25b654bf50b2063ed8274f1a50cc3c"
+  },
+  {
+    "path": "assets/display/bakes-product-context.webp",
+    "sha256": "4abc0742886c28a406cb5c181b1b4ba39a1fa80970bc827c10fb0d2310635942"
+  },
+  {
+    "path": "assets/display/bakes-store-poster.webp",
+    "sha256": "b81df3ec7d59eb85597bc1c4491f54c26641ec08d3f9d9d4729c91c8c82c3f20"
+  },
+  {
+    "path": "assets/display/bakes-tet-store.webp",
+    "sha256": "021de5a18d687e079e6a16c794302723ed14b516065032706a337f67e2aee6b8"
+  },
+  {
+    "path": "assets/display/bakes-valentine-kv.webp",
+    "sha256": "b7000c7aa4f378b642fa8c6a688fd813e70a788eff10aa0811e60192907269db"
+  },
+  {
+    "path": "assets/display/bakes-valentine-product.webp",
+    "sha256": "cd23824e3e266f5f95346ab7d1965fe8917910175e254db1dd85491aa0bee0a9"
+  },
+  {
+    "path": "assets/display/honor-1.webp",
+    "sha256": "62071b08e192bd71f436352ad6082c1c43bdc90caa0b456923246af7dde14943"
+  },
+  {
+    "path": "assets/display/honor-2.webp",
+    "sha256": "4f99b537754bb5d436a6b8a46e1a7c6ea50f8a0ee0e73e07c04dc5c4cb61f542"
+  },
+  {
+    "path": "assets/display/honor-3.webp",
+    "sha256": "2c2471ad3acf48394ea76ba4e0175aa504b6bf62d3ddb295288c08050b7e5700"
+  },
+  {
+    "path": "assets/display/official-eva-0.webp",
+    "sha256": "8224c9d6c699f32ef23222ad3aa41b5d6e1895d64dc6673e0f8fc2a19d573ee6"
+  },
+  {
+    "path": "assets/display/official-eva-10.webp",
+    "sha256": "c32356f3c1cef0ae07eb77e6a07782be23bd04a3f088e08d6aa0694589af8cb8"
+  },
+  {
+    "path": "assets/display/official-eva-11.webp",
+    "sha256": "1ee63941bbf4cfc7bbb9219732c7238ad7e8ca97b3f8d83f89149e3bdf9c4132"
+  },
+  {
+    "path": "assets/display/official-eva-2.webp",
+    "sha256": "356b29a46626feac038e1b8d5b0378ecfd6148dc8266bea37f3d3dce6811a564"
+  },
+  {
+    "path": "assets/display/official-eva-6.webp",
+    "sha256": "107186bc4d5598ea9fd09fd9e6fd45d200efd160b1004d958c4a7a73f1f1b6ec"
+  },
+  {
+    "path": "assets/display/official-eva-7.webp",
+    "sha256": "c1665102c9332002b7ec040300d78a057ec746aa487b1a700e576b09e3ce6aa9"
+  },
+  {
+    "path": "assets/display/official-eva-8.webp",
+    "sha256": "806590a627a0c3047806f49786b7fbfa716a8ba9021f43913c51ef0c9901c10b"
+  },
+  {
+    "path": "assets/display/official-mami-1.webp",
+    "sha256": "328a1bc66a984a07a15dc77d45c3aa37def12baf07a9531f96c06c7dafe6c820"
+  },
+  {
+    "path": "assets/display/official-mami-12.webp",
+    "sha256": "00bba83724fd5e1b3eb4227a081b127b56fba0fad0355b97264623d92b8e2200"
+  },
+  {
+    "path": "assets/display/official-mami-15.webp",
+    "sha256": "c480b41079a771cdaedd29c5a891fd6e07b08e6242d6748f5df5a38d7340560e"
+  },
+  {
+    "path": "assets/display/official-mami-18.webp",
+    "sha256": "2cef5ee80916493a0f037edd259d3357e5d0fd98ba8d5daaf27896b0f119eb97"
+  },
+  {
+    "path": "assets/display/official-mami-3.webp",
+    "sha256": "e4d5d86802e3c351bb97ff78da432004406998e1e9ef18b0f03412371708521a"
+  },
+  {
+    "path": "assets/display/official-mami-5.webp",
+    "sha256": "3d7a31e8c4b004ee126167208a30ba327724cd91b7e2d86c86548cb30f118c01"
+  },
+  {
+    "path": "assets/display/official-mami-6.webp",
+    "sha256": "eac3eb901ccd7cf83e809ccff6f9365dbe229e21c88f54215fbf02b3f5d7d7f2"
+  },
+  {
+    "path": "assets/display/official-vero-0.webp",
+    "sha256": "45513bea8714ccdff4b8505de3d909be2bfa45b106a55692fac8d4e6706d8c12"
+  },
+  {
+    "path": "assets/display/uob-activation.webp",
+    "sha256": "b272566fd67e076d36f9703e96f5f6e7844dd72e917015013d5ec3d5086b9a1c"
+  },
+  {
+    "path": "assets/display/uob-painting-space.webp",
+    "sha256": "9599c1786a205e57e04741936e760f6c24c273ff5c274f3a729309c2ebe71c2a"
+  },
+  {
+    "path": "assets/display/uob-participants.webp",
+    "sha256": "ac46f5453ab579c088cb661eb9d4bda00282445a5ef9a5ff07eacb64b75a9668"
+  },
+  {
+    "path": "assets/display/uob-workshop.webp",
+    "sha256": "c94af8dfc5e5f85b3b5e1877d139da3ee929dc29fd55e31369f7ea5b9fbd514c"
+  },
+  {
+    "path": "assets/eva-installation.png",
+    "sha256": "dd98b8be3f08e620a3f7f005e3c13626af4089ebb73b7e8c36fc003bb38c4adf"
+  },
+  {
+    "path": "assets/eva-interaction.png",
+    "sha256": "bb84af3212f2f0c681210d0a3e112122a66e38d6fe1f65578117e92ee1ea867f"
+  },
+  {
+    "path": "assets/eva-operations.png",
+    "sha256": "a98139caa82e205d3a079200b14624298fc5d9a62d699446b9fc89c9f56f1ec4"
+  },
+  {
+    "path": "assets/eva.jpg",
+    "sha256": "df8bf0137e463f2d1a696af7bb8842d37fb1b11ee2fecd24b34ba58b61c3c6b8"
+  },
+  {
+    "path": "assets/fonts/DMSans-OFL.txt",
+    "sha256": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1"
+  },
+  {
+    "path": "assets/fonts/DMSans-Variable.woff",
+    "sha256": "2e24ed6319c56bb7a27740e9915b30f5123b60c878cd61d880866b7a85b3f75e"
+  },
+  {
+    "path": "assets/fonts/DMSerifDisplay-Italic.woff",
+    "sha256": "6775dd988debabfb75dde3db40152b12b4249005f08bc53d2da6994257a82f6c"
+  },
+  {
+    "path": "assets/fonts/DMSerifDisplay-OFL.txt",
+    "sha256": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231"
+  },
+  {
+    "path": "assets/fonts/DMSerifDisplay-Regular.woff",
+    "sha256": "44948d23a63225cb4be945c559d1d049c22d171320302018ddd5024403a76f2a"
+  },
+  {
+    "path": "assets/honor-1.png",
+    "sha256": "df9f7a2af8fbee285b2c19b05090ca16eb50420d4ddb9142ce7d96dbdfe1366b"
+  },
+  {
+    "path": "assets/honor-2.png",
+    "sha256": "720fdce005bb61fc1fb7fec8387dbf07f3a93224caf1467fd29a66ba4486272d"
+  },
+  {
+    "path": "assets/honor-3.png",
+    "sha256": "d506b3f731fbae00655cdcc4777e12f25eff36d71fba54c6ebc44158aeeef3f3"
+  },
+  {
+    "path": "assets/honor-4.png",
+    "sha256": "d42362e79c444f5e242fca46e0fac2cdf5c23e87df89303d203c6027b5f3cd94"
+  },
+  {
+    "path": "assets/honor-cover.jpg",
+    "sha256": "0dd7ef2a2afff7f6c4d7d85a0c2ebc35f516f3867fb7cd25447f436c5b895337"
+  },
+  {
+    "path": "assets/innisfree.jpg",
+    "sha256": "17ac692ede5fdd21deb43660aca34d8adabb3c3bef05458f3830d2b47fbce3b7"
+  },
+  {
+    "path": "assets/innisfree.mp4",
+    "sha256": "1ef7915da533826656f102b3fe1597b2379c53ffbf805b528170f592375c57da"
+  },
+  {
+    "path": "assets/klairs.jpg",
+    "sha256": "f3a11d6591e39b0677e22a9c26e40b814c97f1936853873664cf217732f460ec"
+  },
+  {
+    "path": "assets/klairs.mp4",
+    "sha256": "efcac5924f12a6a924d6c98c12c1ff295491bd24e1eb0ba144c2152f4e205376"
+  },
+  {
+    "path": "assets/logo-abbott.png",
+    "sha256": "8d665a32b0d7818b201f5b525cce96ef37d06aa5373119112f92dc7b3b4093e3"
+  },
+  {
+    "path": "assets/logo-amazon.svg",
+    "sha256": "537e0dc8e33b9a964d0c4f644720b102d8cbc7120254fdfaac6700f79b885173"
+  },
+  {
+    "path": "assets/logo-bakes.png",
+    "sha256": "21c0e8fbf68cfe9549e6287efbcc220ddbad9c4d95685fc3f42966b27f286b02"
+  },
+  {
+    "path": "assets/logo-cetaphil.svg",
+    "sha256": "0003b540d453cb061a4d8abc021dd9735b1436aac6446fc396b29969e662c528"
+  },
+  {
+    "path": "assets/logo-honor.png",
+    "sha256": "8907202c28b9d8f26b493f34e4c4aef62fa78140750b1c7d23cddd9985188269"
+  },
+  {
+    "path": "assets/logo-loreal-paris.svg",
+    "sha256": "6befdcbb8480468939a6d2f245269ed3814fe5a2ee386a28611a49afd7416c9e"
+  },
+  {
+    "path": "assets/logo-lrp.png",
+    "sha256": "b1e8bab0baae9cb6dd84a8d96494143a0d008179838ead217931665ba1796b3b"
+  },
+  {
+    "path": "assets/logo-panasonic.svg",
+    "sha256": "5d3521623a240a5d46b6864e7471bbe6f7ccf75be57f98654950dd1ea7767bcf"
+  },
+  {
+    "path": "assets/logo-pg.svg",
+    "sha256": "80cfe6d9ad348d61fc3bf262fd6bab453ed3dc10e965f88aa4a7136de577fc4f"
+  },
+  {
+    "path": "assets/logo-vero.svg",
+    "sha256": "57d71aa401670ed67c1f21704312d5ee84a06acd0c140d53e082d78978b001ff"
+  },
+  {
+    "path": "assets/logo-vifon.svg",
+    "sha256": "ca9df42285f51bdd09dc590032224b2fd06331b66de4986d1a7eeb53e3cb0e48"
+  },
+  {
+    "path": "assets/logo-vng.png",
+    "sha256": "4d329549a3301574254ad9ed1d782c36f03c26d4837422fe7f461bfb8b344e24"
+  },
+  {
+    "path": "assets/loreal.jpg",
+    "sha256": "6687b41afa0960ba9d92beda320d9197b4f1051a002ab820839a3b69f030ac54"
+  },
+  {
+    "path": "assets/loreal.mp4",
+    "sha256": "3146dda01841e4b5ee989d4bbc304aa43520e04ad4a4f6ee0c0146004f9cb3e7"
+  },
+  {
+    "path": "assets/lrp.jpg",
+    "sha256": "209aef6cbf656787b4a3604500f0f3023bb7e31a6cbc6ef42f4e8ea54fa9c172"
+  },
+  {
+    "path": "assets/lrp.mp4",
+    "sha256": "cd4708b67810acf0f03518da2a49bc3aa684e335f5a09c0b5bd5513b4283ca8a"
+  },
+  {
+    "path": "assets/mami-bar.png",
+    "sha256": "227e1716d354c03b9fa48a39ebbb21a83d7f7b81d627f011444a1bebc9338535"
+  },
+  {
+    "path": "assets/mami-day-exterior.png",
+    "sha256": "d4cface36edc1ae213610e784af507054311eafdd93d9e041a3111283f7ff530"
+  },
+  {
+    "path": "assets/mami-exterior.png",
+    "sha256": "83b3ef6c00019b4dff62148c86d38b4c348b11c32bfec354ecea7f195d3de2c5"
+  },
+  {
+    "path": "assets/mami-interior.png",
+    "sha256": "a4bfb5f12daa7fa6d2d6b434d1d20a33ec89192cbc7cda95ddace2053f9d5603"
+  },
+  {
+    "path": "assets/mami-logo.png",
+    "sha256": "7477359300245af0bc3e28bc99909bb881f93b61237c2a96404a79e921e8a5d3"
+  },
+  {
+    "path": "assets/mei-portrait-display.webp",
+    "sha256": "741cf4c8d36d668f7cf8f8ee41094a43a386d44c67e727c5ae7d70efcab6c5cb"
+  },
+  {
+    "path": "assets/mei-portrait.webp",
+    "sha256": "4fa0c00d98ca637ad01c12ff85e2866d75ad02e81d513d06ce4f2bd902dcf29b"
+  },
+  {
+    "path": "assets/mei-speaking.webp",
+    "sha256": "6b37185ba5eb20e722b53bd6e0564db2f6b61b3f3c48488565cb978a30f7317b"
+  },
+  {
+    "path": "assets/moon.jpg",
+    "sha256": "c4e360362eb3fd3a8bb6b7413dea8eeb0002fa638f1f1f80ad984c4d3a2abdad"
+  },
+  {
+    "path": "assets/mountain-dew-display.webp",
+    "sha256": "354cbaae53bcee3a843be6d1327a1406d3ec078a325b52c513bf72e1f1fa6cf0"
+  },
+  {
+    "path": "assets/mountain-dew.png",
+    "sha256": "b2a9512c13f834bedd14b1f651f0a82066d2c6deed59e9eedec2c1f8024b002e"
+  },
+  {
+    "path": "assets/obagi.jpg",
+    "sha256": "45598327d11ac713d3aa06be28dbf852cd55dbf5a8a13ca97295a2fb571ea370"
+  },
+  {
+    "path": "assets/obagi.mp4",
+    "sha256": "fdcf67e6a811a024c65922eba2549eb1d1edb5090487b5de1c8576d8991ccf27"
+  },
+  {
+    "path": "assets/official-ahc.svg",
+    "sha256": "d67e1a23cc80fd851f74a1443209523633e516d1bea044d4f102093d33b3e23e"
+  },
+  {
+    "path": "assets/official-baresoul.png",
+    "sha256": "d94fd9269dbc99f8ece678b564397935127829dae14c89990dae4b4c55e73d72"
+  },
+  {
+    "path": "assets/official-cetaphil.svg",
+    "sha256": "8e93d0f26e635ec9117c4e5fd171eac0dbee17412604d5a616bbc867f9cac252"
+  },
+  {
+    "path": "assets/official-eva-0.jpg",
+    "sha256": "6f4e9ccb1db07b8a6e9a2470354f347f98137d524e29adfccea1fe919ea2bdb5"
+  },
+  {
+    "path": "assets/official-eva-10.jpg",
+    "sha256": "5812d2abf64f55fe78f5616f0d3912d9035d10e7693d6a247b79b88f23475a8f"
+  },
+  {
+    "path": "assets/official-eva-11.jpg",
+    "sha256": "e1a60fad69ba74726274e466e0108955e781e201e38dbab08559b3b40b323bbf"
+  },
+  {
+    "path": "assets/official-eva-2.jpg",
+    "sha256": "809ea50c5ad76aedfe966a7bb2b259c3fa7a60591ce00932de92cd4c4ff5f18f"
+  },
+  {
+    "path": "assets/official-eva-6.jpg",
+    "sha256": "90a789fc757cc2d825547c0deb61c722a0cbd619723bf6dc532f5295f2a10e41"
+  },
+  {
+    "path": "assets/official-eva-7.jpg",
+    "sha256": "5d0bfa70b763880a7b5e64179f4bcfa2255646c629995b6435d159c6ba272285"
+  },
+  {
+    "path": "assets/official-eva-8.jpg",
+    "sha256": "d646fa483c6857166f0f3783383013000d3cf38fc0d9fcfb739094354a760a6b"
+  },
+  {
+    "path": "assets/official-freshdrink.png",
+    "sha256": "2c2f55727440eceecdcfa2e7f88e9e0e09f48acc805fdaee9cb2fcd0371ad6a0"
+  },
+  {
+    "path": "assets/official-hasaki.png",
+    "sha256": "ee924169a8fed16743f9df9d781b465641cb05ca6da69493226bc43a973cc42f"
+  },
+  {
+    "path": "assets/official-innisfree.png",
+    "sha256": "7f67a34cf3b0496a864653e1b824fcd141a9122179ee5c030e1b015cb4080565"
+  },
+  {
+    "path": "assets/official-loreal-paris.svg",
+    "sha256": "f1f2a6b630b24aa0ff6f2fef2d2629c368ab9a4b72330f72bd160a6958f1238b"
+  },
+  {
+    "path": "assets/official-lrp.png",
+    "sha256": "2ff5602cef13acad75791607ef9eb5e53d8cd0509fead95817623000e2e3b566"
+  },
+  {
+    "path": "assets/official-mami-0.png",
+    "sha256": "85de2381c5c0fd83d5d515948dcbb97a1d17b29e7e53ef8493ef3aabd5a185bf"
+  },
+  {
+    "path": "assets/official-mami-1.webp",
+    "sha256": "1cad8b5192d35a0eb146437b366221edbf32ced85f35adb42248205709f29172"
+  },
+  {
+    "path": "assets/official-mami-12.webp",
+    "sha256": "4b1268fff2ec5f253abb17a5696063d945cb8145ff14e8e9c72bd31635f1c83f"
+  },
+  {
+    "path": "assets/official-mami-15.webp",
+    "sha256": "faa7487544980e4719809719ae423d781d3e11dba5836573aaf7e99c5ea098d2"
+  },
+  {
+    "path": "assets/official-mami-18.webp",
+    "sha256": "72ceec157eb6905423bd48ecf229906e91a4fe00f7852867d65beb02abc03b95"
+  },
+  {
+    "path": "assets/official-mami-2.webp",
+    "sha256": "f33d9027a11865217dbf52d34652014a578665bf54ccdd21a0e83c4fd99d76f5"
+  },
+  {
+    "path": "assets/official-mami-3.webp",
+    "sha256": "97adc4b887467330456c52a41d45c22aaa6e516a87432cd632a28e673a774124"
+  },
+  {
+    "path": "assets/official-mami-5.png",
+    "sha256": "e5cca4d91a20e34cfeb9b735b0ad68de269b31fa5e1732d1d2a51668a5cb0983"
+  },
+  {
+    "path": "assets/official-mami-6.webp",
+    "sha256": "121ca104f511db2f77398f5f5bcf9ac69c971c02f95569e055ec939688183c6b"
+  },
+  {
+    "path": "assets/official-mami-9.webp",
+    "sha256": "4ac79b7522b02bde12600132596695be05cde7cd7bb72d8b4fff6e64384c77a8"
+  },
+  {
+    "path": "assets/official-milo.png",
+    "sha256": "28032a42c53ade07c330702d6a8a99ff8cf849a9e6239bada2ea395dbf808fa9"
+  },
+  {
+    "path": "assets/official-ps.png",
+    "sha256": "bbfa714a84dbdd54b25c33c7942e12627cbb571b55f1247e9e4f8233eb43a974"
+  },
+  {
+    "path": "assets/official-tiger.svg",
+    "sha256": "2a0efacd3d1323fdd8548df8fe8ab188ef408975dba455a0e248339c661cdea2"
+  },
+  {
+    "path": "assets/official-vero-0.webp",
+    "sha256": "3409d12c0d30b18029513768281b6b348e132ff96a0a3d28cff0a28cb6a820e2"
+  },
+  {
+    "path": "assets/official-vero-applications.jpg",
+    "sha256": "5dc8cf85253554c20c3664534b2e2fa01c6950a2ae8be78553953dc7bb3f52b4"
+  },
+  {
+    "path": "assets/official-vero-motion-0-poster.jpg",
+    "sha256": "6ad930805b70d5b8668ee7aab3d96a3bcfd6baa5266fa67a8124d00ec29e04a0"
+  },
+  {
+    "path": "assets/official-vero-motion-0.mp4",
+    "sha256": "90d374231a36431f3570f64e480a56d262da9a49accaf48ac09bd3d28981cbda"
+  },
+  {
+    "path": "assets/official-vero-motion-2-poster.jpg",
+    "sha256": "208063b20e9c851d759bf1a847a7d2c2508fc4c4ddb7786a9d7b41c7463bf790"
+  },
+  {
+    "path": "assets/official-vero-motion-2.mp4",
+    "sha256": "554b453236d478c39d68f59a6b0188fea2212bb24fb2415c72da957c61625e10"
+  },
+  {
+    "path": "assets/official-vero-motion-6-poster.jpg",
+    "sha256": "01a294ef6ff0842c4c675093cee7e25a4504a0b45f0c7cb9d43b2a81b643b088"
+  },
+  {
+    "path": "assets/official-vero-motion-6.mp4",
+    "sha256": "19f7e2a8011c87886188233bdb17663eb1dbbc33e86b4f75107e36a538870186"
+  },
+  {
+    "path": "assets/official-vng.png",
+    "sha256": "4d329549a3301574254ad9ed1d782c36f03c26d4837422fe7f461bfb8b344e24"
+  },
+  {
+    "path": "assets/ponds.jpg",
+    "sha256": "781ffc3d0b6c15ef47e62abae68f36c04b93da94ccc936323ed1cbe2d8b72039"
+  },
+  {
+    "path": "assets/ponds.mp4",
+    "sha256": "ba73654051919d8727fa8e7bb5da5136d322d5cf8600fb00e5cd284a3f320d96"
+  },
+  {
+    "path": "assets/ps.jpg",
+    "sha256": "28ae9ad5388b9e809d6684086d737dd7c288be3fc9478a82cf896670f630efa6"
+  },
+  {
+    "path": "assets/ps.mp4",
+    "sha256": "3ff4650efa5af3857e061d60887311ecfb35b029a9e938ffcfd5a45920fbd596"
+  },
+  {
+    "path": "assets/store.jpg",
+    "sha256": "42045ffd3a41733a3e5f654593375c80146c13bf41a7d43f613df59a16926623"
+  },
+  {
+    "path": "assets/uob-activation.png",
+    "sha256": "9143072b19d24b763ddc2a68fcb2d452934706ebf0e173d5f10b2fbdc14f2477"
+  },
+  {
+    "path": "assets/uob-painting-space.png",
+    "sha256": "7a995621247b396f423fe7b9d76dcc67053c8f321923e70cc2046e39591f45fa"
+  },
+  {
+    "path": "assets/uob-participants.png",
+    "sha256": "fc78dc268fc37206a4f791757bc5fd6bb5e808dcd1a1a13998c238d677dec78d"
+  },
+  {
+    "path": "assets/uob-workshop.png",
+    "sha256": "5cd3922632f03ad35de5d31feb5c74cbfe3ac78584690fa2385b1ca2e247c644"
+  },
+  {
+    "path": "assets/uob.jpg",
+    "sha256": "0dce0d68abdf17b7867db09ba8ef4722e9c6334c0dda2152b125cee0644425da"
+  },
+  {
+    "path": "assets/vaseline.jpg",
+    "sha256": "15112be7b525a0595e790f01c8ccb628934605876fc492323835caa5fc122034"
+  },
+  {
+    "path": "assets/vaseline.mp4",
+    "sha256": "82c4cc0c41b1855d6316e25c471056c90bb77791e96b3dab5b721f0e85879642"
+  }
+]
