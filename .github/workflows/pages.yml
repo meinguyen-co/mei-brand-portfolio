@@ -1,0 +1,42 @@
+name: Validate and prepare GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify portfolio source
+        run: |
+          test -f dist/index.html
+          node scripts/verify-v14.mjs
+
+  deploy:
+    # Deployment remains OFF until the owner explicitly enables it
+    # by setting repository variable ENABLE_PAGES_DEPLOY=true.
+    if: ${{ vars.ENABLE_PAGES_DEPLOY == 'true' }}
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+      contents: read
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4
