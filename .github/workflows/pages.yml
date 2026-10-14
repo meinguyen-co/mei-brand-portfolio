@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 concurrency:
@@ -18,17 +18,18 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - name: Import and verify portfolio media
-        run: python scripts/import-media.py
-      - name: Preserve imported media in repository
+      - name: Verify stored portfolio media
         run: |
-          git add dist/assets
-          if ! git diff --cached --quiet; then
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git commit -m 'Store verified portfolio media'
-            git push
-          fi
+          python - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          manifest=json.loads(Path('media-manifest.json').read_text())
+          for item in manifest:
+              path=Path('dist')/item['path']
+              if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest()!=item['sha256']:
+                  raise SystemExit('Missing or changed media: '+item['path'])
+          print('Verified',len(manifest),'media files')
+          PY
       - name: Validate source
         run: |
           test -f dist/index.html
