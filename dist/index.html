@@ -11,10 +11,10 @@
   <link rel="preload" href="assets/fonts/DMSans-Variable.woff" as="font" type="font/woff" crossorigin>
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="design.css">
-  <link rel="stylesheet" href="typography.css?v=20261014-scope">
+  <link rel="stylesheet" href="typography.css?v=20261014-polish">
   <script defer src="content.js?v=20261014-scope"></script>
   <script defer src="app.js?v=20261014-scope"></script>
-  <script defer src="refinements.js"></script>
+  <script defer src="refinements.js?v=20261014-polish"></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -30,14 +30,14 @@
       <div class="hero-copy">
         <p class="eyebrow"><span class="tiny-dot"></span> Mei Nguyen · Ho Chi Minh City</p>
         <h1 data-edit="hero.title-highlight-v2">Think bold.<br><em>Make it matter.</em></h1>
-        <p class="hero-deck" data-edit="hero.deck">Creative instinct. Commercial clarity.</p>
+        <p class="hero-deck personality-deck" data-edit="hero.personality-three-lines">Creative at heart.<br>Commercial in mind.<br>Adaptive by nature.</p>
         <p class="body-copy" data-edit="hero.positioning">I connect brand ideas with the teams, platforms and practical decisions that make them work.</p>
         <p class="body-copy hero-context" data-edit="hero.background">Account and project management at The Lab Saigon. Team leadership at PMAX. Platform and commerce experience at TikTok.</p>
         <div class="hero-actions"><a class="button primary" href="#work">Explore my work <span>↘</span></a></div>
       </div>
       <figure class="hero-portrait">
         <div class="portrait-frame" data-slot="hero.portrait" data-fallback="assets/mei-portrait-display.webp" data-alt="Mei Nguyen in Bangkok"></div>
-        <figcaption><strong class="portrait-name" data-edit="hero.name">Mei Nguyen.</strong><span class="persona-line" data-edit="hero.persona">A curious heart. A clear head.<br>A little boldness to bring ideas to life.</span></figcaption>
+        <figcaption><strong class="portrait-name" data-edit="hero.name">Mei Nguyen.</strong></figcaption>
       </figure>
     </section>
     <section class="thinking-section section-shell" id="perspectives">
@@ -82,8 +82,8 @@
       <div class="about-copy"><p class="eyebrow">About Mei</p><h2 data-edit="about.final-title">Experience across<br><em>agency and platform.</em></h2><p data-edit="about.summary-v2">Based in Ho Chi Minh City, I bring experience across creative agencies, performance marketing and TikTok partnerships, alongside leadership of a team of 10+ at PMAX.</p>
         <div class="experience">
           <article id="experience-tiktok"><span>Apr 2025 — Present</span><h3 data-edit="experience.tiktok.title">TikTok · Regional projects & brand partnerships</h3><p data-edit="experience.tiktok.copy">Platform consultation, campaign delivery and social commerce across Southeast Asia, the US and Mexico.</p></article>
-          <article id="experience-pmax"><span>Jul 2024 — Apr 2025</span><h3 data-edit="experience.pmax.title">PMAX · Senior Account Executive → Account Lead</h3><p data-edit="experience.pmax.copy">Led 10+ direct reports in a new fashion POD. Reviewed campaign performance and reporting quality, and reported to senior management.</p></article>
-          <article id="experience-lab"><span>Mar 2023 — Apr 2024</span><h3 data-edit="experience.lab.title">The Lab Saigon · Strategic Partnership</h3><p data-edit="experience.lab.copy">Managed assigned accounts and projects from early brief to delivery, aligning clients, creative teams, budgets and timelines.</p></article>
+          <article id="experience-pmax"><span>Jun 2024 — Apr 2025</span><h3 data-edit="experience.pmax.title">PMAX · Senior Account Executive → Account Lead</h3><p data-edit="experience.pmax.copy">Led 10+ direct reports in a new fashion POD. Reviewed campaign performance and reporting quality, and reported to senior management.</p></article>
+          <article id="experience-lab"><span>Mar 2023 — May 2024</span><h3 data-edit="experience.lab.title">The Lab Saigon · Strategic Partnership</h3><p data-edit="experience.lab.copy">Managed assigned accounts and projects from early brief to delivery, aligning clients, creative teams, budgets and timelines.</p></article>
           <article id="experience-independent"><span>2021 — 2023 · Project-based</span><h3 data-edit="experience.independent.title">Social Campaign Manager · Independent Projects</h3><p data-edit="experience.independent.copy">Creator partnerships, campaign planning and social commerce execution.</p></article>
         </div>
         <details class="delivery-tools" open><summary>Skills, tools &amp; ways of working <span aria-hidden="true">＋</span></summary><dl>
@@ -99,7 +99,7 @@
     <section class="contact-section section-shell" id="contact"><p class="eyebrow">Let’s connect</p><h2 data-edit="contact.title">Good ideas start<br><em>with a conversation.</em></h2><p data-edit="contact.copy">For brand, campaign and commerce opportunities—and teams who care about making the work matter.</p><div class="contact-actions"><a class="button secondary" href="https://www.linkedin.com/in/nhpthao21/" target="_blank" rel="noopener noreferrer">LinkedIn <span>↗</span></a></div><form id="contact-form" class="contact-form"><h3>Leave me a message</h3><label for="contact-email">Your email</label><input id="contact-email" name="email" type="email" autocomplete="email" required maxlength="254"><label for="contact-request">What would you like to discuss?</label><input id="contact-request" name="request" required maxlength="160"><label for="contact-message">Your message</label><textarea id="contact-message" name="message" rows="4" required maxlength="5000"></textarea><button class="button primary" type="submit">Open email draft ↗</button><p class="form-note" id="contact-status" role="status">Opens your email app with a message to Mei. Automatic delivery is not connected yet.</p></form></section>
   </main>
   <a class="back-to-top" id="back-to-top" href="#home" aria-label="Back to top" hidden>↑ <span>Top</span></a>
-  <footer class="site-footer"><span>© 2026 Phuong-Thao Nguyen (Mei)</span><span>Beauty · Culture · Commerce</span><button type="button" class="edit-launch" id="edit-launch" aria-expanded="false" aria-controls="editor-panel">Edit portfolio <span>↗</span></button></footer>
+  <footer class="site-footer"><span>© 2026 Phuong-Thao Nguyen (Mei)</span><button type="button" class="edit-launch" id="edit-launch" aria-expanded="false" aria-controls="editor-panel">Edit portfolio <span>↗</span></button></footer>
   <aside class="editor-panel" id="editor-panel" hidden aria-label="Portfolio editor">
     <div class="editor-heading"><strong>Make this portfolio yours</strong><button type="button" id="editor-close" class="icon-button" aria-label="Close editor">×</button></div>
     <p>Text and images save in this browser. Export a backup to carry your changes into a shared site update.</p>

@@ -1,5 +1,5 @@
 (() => {
-  const cards = Array.from(document.querySelectorAll('.journey-strip > div'));
+  const cards = Array.from(document.querySelectorAll('.journey-strip > div, .thinking-flow > article'));
   cards.forEach(card => {
     card.setAttribute('role', 'button'); card.setAttribute('tabindex', '0'); card.setAttribute('aria-pressed', 'false');
     const select = () => { const selected = card.getAttribute('aria-pressed') !== 'true'; cards.forEach(item => item.setAttribute('aria-pressed', String(item === card && selected))); };
