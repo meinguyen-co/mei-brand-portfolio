@@ -55,12 +55,12 @@
     cleanEmptyContent(root);
   }
   function cleanEmptyContent(root = document) {
-    $("[data-edit]", root).forEach(node => {
+    $$("[data-edit]", root).forEach(node => {
       const empty = !node.textContent.replace(/\u00a0/g, " ").trim();
       node.toggleAttribute("data-empty-content", empty && !editing);
     });
-    $(".thinking-flow article,.journey-strip > div,.delivery-tools dl > div,.case-stage-heading,.section-heading > div", root).forEach(block => {
-      const fields = $("[data-edit]", block);
+    $$(".thinking-flow article,.journey-strip > div,.delivery-tools dl > div,.case-stage-heading,.section-heading > div", root).forEach(block => {
+      const fields = $$("[data-edit]", block);
       block.toggleAttribute("data-empty-content", !editing && fields.length > 0 && fields.every(node => !node.textContent.replace(/\u00a0/g, " ").trim()));
     });
   }
