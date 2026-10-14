@@ -180,7 +180,6 @@ window.PORTFOLIO = {
       "image": "assets/bakes-packaging-poster.png",
       "alt": "Bold orange and blue illustrated Bakes mooncake tin from A Harvest Bloom",
       "title": "A harvest story, carried from product to store.",
-      "deck": "I managed the account and project from campaign planning to packaging production and store readiness, aligning Bakes, the studio and delivery teams. Recipes and product decisions were led by the chef and product team.",
       "facts": [
         [
           "My role",
@@ -446,7 +445,6 @@ window.PORTFOLIO = {
       "image": "assets/honor-cover.jpg",
       "alt": "HONOR Magic V3 premium digital placement preview",
       "title": "A premium proposition. A deliberate digital plan.",
-      "deck": "I developed the launch proposal and media recommendations, then coordinated budget, timing, creative assets and LDN vendor negotiations with HONOR, PMAX and specialist partners.",
       "facts": [
         [
           "My role",
@@ -463,76 +461,25 @@ window.PORTFOLIO = {
       ],
       "steps": [
         {
-          "id": "product",
-          "title": "Product positioning → a clear awareness objective",
+          "id": "coordination",
+          "title": "Delivery coordination",
           "paragraphs": [
-            "The brief positioned Magic V3 around slim foldable design and durability in a competitive category. HONOR led product R&D. I translated the proposition into the launch proposal.",
-            "I developed the proposal around targeted digital exposure, keeping audience, placements and KPIs connected to the awareness objective."
-          ]
-        },
-        {
-          "id": "concept",
-          "title": "Content, timing & ad objectives work together",
-          "paragraphs": [
-            "I aligned the three-phase digital approach with the product-feature, brand-activity and promotion calendar. The mix included Facebook, TikTok, YouTube and LDN, using Reach & Frequency, Video Views and Engagement.",
-            "The calendar gave each asset a delivery context—from teasing and pre-order through launch moments and amplification. I coordinated the social assets needed for ad setup."
+            "My scope covered the proposal, budget, timeline, asset readiness and LDN vendor negotiations. HONOR, PMAX, creative specialists and media partners delivered the campaign together."
           ],
           "visual": [
             {
-              "title": "Teasing & pre-order",
-              "copy": "6–12 Dec: teasing. 13–18 Dec: pre-order. Social posts, teaser and landing page."
+              "title": "Plan",
+              "copy": "Connect the product proposition, audience and campaign calendar."
             },
             {
-              "title": "Launch moments",
-              "copy": "19 Dec: media gathering. 20 Dec: open sale and D-Day event. iTVC and social posts."
+              "title": "Coordinate",
+              "copy": "Align approved assets, placements, partner requirements and deadlines."
             },
             {
-              "title": "Amplification",
-              "copy": "21 Dec–31 Jan: extend the launch through planned social communication."
+              "title": "Review",
+              "copy": "Track the agreed KPIs and report delivery against the launch objective."
             }
           ]
-        },
-        {
-          "id": "funnel",
-          "title": "LDN planning: audience, format, device & budget",
-          "paragraphs": [
-            "For LDN, I recommended A-Class and lifestyle audiences aged 25–45 with medium to high incomes, supported by a curated publisher sitelist.",
-            "I prioritised premium, high-visibility formats and strong visuals, balancing image quality with budget efficiency. The proposed mix was 70% mobile for on-the-go exposure and 30% desktop for professional and home contexts."
-          ],
-          "allocation": {
-            "mobile": 70,
-            "desktop": 30,
-            "label": "Proposed LDN device allocation"
-          }
-        },
-        {
-          "id": "execution",
-          "title": "Turn the recommendation into a controlled delivery",
-          "paragraphs": [
-            "I led execution across proposal, budget, timeline and asset readiness. Vendor negotiation covered LDN pricing, ad formats and placements; I kept delivery aligned with business objectives and the agreed media approach.",
-            "The main measurement set was reach, views, impressions and clicks. I tracked plans and KPIs with the team, keeping each measure tied to the role of the activity."
-          ],
-          "table": {
-            "title": "Measurement lens",
-            "headers": [
-              "Measure",
-              "Role in this launch"
-            ],
-            "rows": [
-              [
-                "Reach & impressions",
-                "Awareness delivery across the selected digital touchpoints."
-              ],
-              [
-                "Video views",
-                "Response to the launch video activity."
-              ],
-              [
-                "Clicks",
-                "Response to the campaign’s next-action invitation."
-              ]
-            ]
-          }
         }
       ],
       "result": {
@@ -603,7 +550,7 @@ window.PORTFOLIO = {
         }
       ],
       "credit": "HONOR × PMAX, with media and vendor partners. Product R&D: HONOR. My role: account management, client alignment and project delivery.",
-      "galleryTitle": "The plan, the timing and the placements.",
+      "galleryTitle": "Launch planning and placement examples.",
       "gallery": [
         {
           "image": "assets/honor-cover.jpg",
@@ -616,16 +563,41 @@ window.PORTFOLIO = {
           "caption": "Campaign context and launch timeline: aligning assets with each milestone."
         },
         {
-          "image": "assets/honor-2.png",
-          "alt": "HONOR Magic V3 channel objectives and digital approach",
-          "caption": "The channel plan connects audience, objectives and measurement."
-        },
-        {
           "image": "assets/honor-3.png",
           "alt": "HONOR Magic V3 premium publisher format recommendations",
           "caption": "LDN proposal: audience, device mix and premium publisher formats. Recommendations were subject to client approval."
         }
-      ]
+      ],
+      "phasePlan": {
+        "title": "Launch phases: objective → team action",
+        "headers": [
+          "Phase",
+          "Objective",
+          "How the team delivered"
+        ],
+        "rows": [
+          [
+            "Teasing · 6–12 Dec",
+            "Introduce the slim, durable foldable proposition.",
+            "HONOR and creative partners supplied teaser assets; PMAX coordinated the planned digital activity."
+          ],
+          [
+            "Pre-order · 13–18 Dec",
+            "Build product interest before availability.",
+            "Align product-feature content, social assets and the landing page with the pre-order calendar."
+          ],
+          [
+            "Launch · 19–20 Dec",
+            "Make the product launch visible.",
+            "Connect the media gathering and open-sale moment with launch video, social content and publisher placements."
+          ],
+          [
+            "Amplification · 21 Dec–31 Jan",
+            "Sustain attention and review delivery.",
+            "Continue planned communication and track reach, views, impressions and clicks against the agreed launch objective."
+          ]
+        ]
+      }
     },
     {
       "id": "vero",
@@ -637,7 +609,6 @@ window.PORTFOLIO = {
       "image": "assets/official-vero-motion-0-poster.jpg",
       "alt": "Vero rebrand identity with a purple and blue visual system",
       "title": "One adaptable identity for a regional consultancy.",
-      "deck": "I managed the assigned account and project from the early rebrand brief through creative alignment and web delivery, connecting VERO’s business requirements with the studio and its development partner.",
       "facts": [
         [
           "My role",
@@ -780,7 +751,6 @@ window.PORTFOLIO = {
       "image": "assets/official-mami-1.webp",
       "alt": "Mami Cocktails character coasters and monogram pattern beside a cocktail",
       "title": "A memorable character. A connected brand experience.",
-      "deck": "I managed the assigned account and project from the early idea through opening, connecting the brand brief, identity, collateral, interiors, budget and timeline. The creative direction grew from a vivid aunt in the owners’ family history.",
       "facts": [
         [
           "My role",
@@ -938,7 +908,6 @@ window.PORTFOLIO = {
       "image": "assets/official-eva-7.jpg",
       "alt": "EVA digital exhibition with illuminated artwork screens and spatial installations",
       "title": "One exhibition idea, across physical and virtual space.",
-      "deck": "I managed project coordination from planning through public delivery, connecting EVA’s early direction with creative and spatial work, communication and operations. The exhibition for Sun Life explored virtual identity and privacy.",
       "facts": [
         [
           "My role",
@@ -1095,7 +1064,6 @@ window.PORTFOLIO = {
       "image": "assets/uob-activation.png",
       "alt": "UOB activation vehicle inviting people to uncover their passion for art",
       "title": "Turn a passion for art into participation.",
-      "deck": "In account and project management, I connected UOB’s early activation concept with artists, production, communication and budgets. My consultancy and delivery role helped turn support for local talent into a participatory brand experience.",
       "facts": [
         [
           "My role",
@@ -1224,7 +1192,6 @@ window.PORTFOLIO = {
       "subtitle": "Campaign plans · Affiliate readiness · Shop-in-shop briefs",
       "image": "assets/affiliate-overall-plan.png",
       "title": "From a commercial objective to a shop ready to sell.",
-      "deck": "I connect campaign calendars, affiliate activity and storefront briefs so the brand, creative team and creators work from one plan. The examples show how I structure targets, products, offers, assets and delivery readiness.",
       "facts": [
         [
           "My role",
@@ -1326,7 +1293,12 @@ window.PORTFOLIO = {
               "title": "What to check",
               "copy": "Approved assets, accurate offers and a clear route to the product."
             }
-          ]
+          ],
+          "slot": {
+            "image": "assets/shop-in-shop-brief.png",
+            "alt": "Shop-in-shop head-banner brief showing brand logos, campaign offer, gift hierarchy, key products and purchase CTA",
+            "caption": "Shop-in-shop brief template: brand and TikTok Shop logos, campaign offer, gifts, hero SKUs and purchase CTA."
+          }
         }
       ],
       "result": {
@@ -1427,15 +1399,7 @@ window.PORTFOLIO = {
         }
       ],
       "credit": "Brand teams, creator partners and affiliate collaborators. Planning and coordination: Mei. My role: account management, client alignment and project delivery.",
-      "alt": "Original Q2 2024 affiliate planning template showing GMV, costs, creator activity and ROI fields",
-      "galleryTitle": "Readiness and storefront brief examples.",
-      "gallery": [
-        {
-          "image": "assets/affiliate-onboarding.png",
-          "alt": "Livestream onboarding checklist",
-          "caption": "An original checklist from the project page, supporting creator and store readiness."
-        }
-      ]
+      "alt": "Original Q2 2024 affiliate planning template showing GMV, costs, creator activity and ROI fields"
     }
   ],
   "projectGroups": [
